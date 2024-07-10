@@ -1,0 +1,4 @@
+store
+prajwal 100 4/4/2002 12:00:00 AM bangalore 104 ajay 4/5/2024 12:00:00 AM
+praj 100 4/4/2002 12:00:00 AM ban 104 ajay 4/5/2024 12:00:00 AM
+praj 100 4/4/2002 12:00:00 AM ban 104 ajay 4/5/2024 12:00:00 AM
