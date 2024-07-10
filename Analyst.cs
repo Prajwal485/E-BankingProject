@@ -14,7 +14,7 @@ namespace day2demo3
 
         public void GetAnalystDetails()
         {
-            EmployeeId = 101;
+            EmployeeId = 201;
             EmployeeName = "Prajwal";
             EmailId = "pvhiremath@gmail.com";
             ContactNumber = 12345678;
